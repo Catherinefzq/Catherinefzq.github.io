@@ -12,3 +12,7 @@ And I can put all kinds of stuff on it!
 I like to do some quick [search](https://www.google.com).
 
 I can link to my [about page](about.html).
+
+### This is a picture
+
+<img src="images/luguhu.jpg" style = "width:55%">
