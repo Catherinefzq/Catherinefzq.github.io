@@ -13,4 +13,4 @@ navbar:
       href: http://github.com/catherinefzq/
 output:
   html_document:
-  theme: flatly
+    theme: flatly
