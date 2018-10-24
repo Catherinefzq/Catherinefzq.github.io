@@ -1,5 +1,6 @@
 name: "Yay internet!"
 output_dir: "."
+create_dir: false
 navbar:
   title: "Home"
   right:
