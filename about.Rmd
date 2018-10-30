@@ -1,9 +1,9 @@
 ---
-title: "About"
+title: "About this site"
 ---
 
-### About this site
-
-Sometimes you need to say a bit about the site -- how it was made, where it's hosted, where the source code can be found. 
-
-If this is for a project or analysis, I recommend giving some details about the R package versions that you used to create the content.
+#
+#### This is my first personal website, hosted by [Github](http://github.com).   
+#### The source code can be found in our Data Science course [website](http://p8105.com/making_websites.html) and my github [repo](https://github.com/Catherinefzq/Catherinefzq.github.io).
+#### I also learned from a [tutorial](http://nickstrayer.me/RMarkdown_Sites_tutorial/) by Nick Strayer and Lucy D’Agostino McGowan. 
+#### Credit to [Lucy's personal website](https://www.lucymcgowan.com/).

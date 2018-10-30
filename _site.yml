@@ -2,10 +2,12 @@ name: "zhiqian website"
 output_dir: "."
 create_dir: false
 navbar:
-  title: ""
+  title: Home
   right:
     - text: "About"
       href: about.html
+    - text: "Resume"
+      href: resume 2.html
     - icon: fa-envelope fa-lg
       href: mailto:<zf2212@cumc.columbia.edu>
     - icon: fa-github
