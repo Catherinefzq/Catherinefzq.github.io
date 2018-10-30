@@ -14,8 +14,8 @@ navbar:
       href: http://github.com/catherinefzq/
     - icon: fa-linkedin
       href: https://www.linkedin.com/in/zhiqian-fang/
-    - text: "Dashborad"
-      href: flexdashborad.html 
+    - text: "Dashboard"
+      href: flexdashboard.html 
     
 output:
   html_document:

@@ -21,7 +21,4 @@ title: ""
 * Languages: Mandarin, Cantonese, English
 * Expected Graduation: 2020
 
-
-
-
-Some [plotly](plotly.html)
+Click [here](flaxdashborad.html) to check out my DASHBOARD!!
