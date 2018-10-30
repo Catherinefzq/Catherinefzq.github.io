@@ -1,10 +1,10 @@
 ---
-title: "Holy cow!"
+title: "Zhiqian's Website"
 ---
 
 ### I have a webpage!
 
-And I can put all kinds of stuff on it!
+
 
 
 ### Add some links

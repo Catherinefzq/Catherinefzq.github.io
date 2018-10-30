@@ -6,14 +6,17 @@ navbar:
   right:
     - text: "About"
       href: about.html
-    - text: "Google"
-      href: http://google.com 
+   - text: "Contact"
+      menu:
+        - icon: fa-envelope fa-lg
+          href: mailto:<zf2212@cumc.columbia.edu>
+        - icon: fa-github
+          href: http://github.com/catherinefzq/
+        - icon: fa-linkedin
+          href: https://www.linkedin.com/in/zhiqian-fang/
     - text: "Dashborad"
       href: flexdashborad.html 
-    - icon: fa-envelope fa-lg
-      href: mailto:<zf2212@cumc.columbia.edu>
-    - icon: fa-github fa-lg
-      href: http://github.com/catherinefzq/
+    
 output:
   html_document:
     theme: flatly
