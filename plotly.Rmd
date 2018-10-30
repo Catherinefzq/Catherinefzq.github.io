@@ -2,7 +2,7 @@
 title: "plotly"
 author: "Catherine"
 date: "10/23/2018"
-output: github_document
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
