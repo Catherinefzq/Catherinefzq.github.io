@@ -4,6 +4,11 @@ title: ""
 
 <br/><br/>
 <span style="color: #7c795d; font-family: 'Snell Roundhand', cursive; font-size: 70px; font-weight: bold; line-height: 48px; margin: 0;">Zhiqian Fang</span>
+
+
+<span style="color: #B6B6B6; font-family: 'Optima', sans-serif; font-size: 15px; font-weight: 300;">Hi there! Welcome to Zhiqian's webiste.</span>
+
+
 </script>
 <br/><br/><br/><br/>
 <div class="row">
@@ -21,4 +26,27 @@ title: ""
 * Languages: Mandarin, Cantonese, English
 * Expected Graduation: 2020
 
+
 Click [here](flexdashboard.html) to check out my DASHBOARD!!
+
+</div>
+</div>
+
+
+<br/><br/><br/>
+
+***
+
+<br/><br/>
+
+<center>
+<div class="scroll">
+<img src="images/graduation.jpeg" style="height:225px;"/>
+<img src="images/lake.jpg" style="height: 225px;"/>
+<img src="images/luguhu.jpg"  style="height:225px;"/></div>
+</center>
+
+<br/><br/>
+
+***
+<br/><br/>
