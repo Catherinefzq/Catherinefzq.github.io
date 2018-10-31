@@ -38,7 +38,7 @@ weather_nest = weather %>%
 Column {data-width=650}
 -----------------------------------------------------------------------
 
-### Maximum Temperature in Central Park, Waikiki, and Waterole
+### Maximum Temperature in Central Park, Waikiki, and Waterhole
 
 ```{r chart a}
 weather %>% 
