@@ -15,7 +15,7 @@ library(rnoaa)
 library(plotly)
 ```
 ```{r import and clean data}
-# pull the data
+# pull the noaa data 
 weather = 
   meteo_pull_monitors(c("USW00094728", "USC00519397", "USS0023B17S"),
                       var = c("PRCP", "TMIN", "TMAX"), 
@@ -53,7 +53,7 @@ Column {data-width=350}
 ### Plot of Temperature in Central Park
 
 ```{r}
-# plot the distribution of tmax and tmin in central park
+# plot the distribution of tmax and tmin in central park 
 weather_nest$data[[1]] %>%
   plot_ly(x = ~tmin, y = ~tmax, type = "scatter", mode = "markers",
           alpha = 0.5)
