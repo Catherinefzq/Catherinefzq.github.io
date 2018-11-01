@@ -41,6 +41,7 @@ Column {data-width=650}
 ### Maximum Temperature in Central Park, Waikiki, and Waterhole
 
 ```{r chart a}
+# plot the tmax in three location
 weather %>% 
 plot_ly(y = ~tmax, color = ~name, type = "box",
           colors = "Set2")
@@ -52,6 +53,7 @@ Column {data-width=350}
 ### Plot of Temperature in Central Park
 
 ```{r}
+# plot the distribution of tmax and tmin in central park
 weather_nest$data[[1]] %>%
   plot_ly(x = ~tmin, y = ~tmax, type = "scatter", mode = "markers",
           alpha = 0.5)
@@ -60,6 +62,7 @@ weather_nest$data[[1]] %>%
 ### Plot of Temperature in Waikiki
 
 ```{r}
+# Plot the tmax and tmin in waikiki
 waikiki_data = weather_nest$data[[2]] %>% 
   ggplot(aes(x = tmin, y = tmax)) +
   geom_smooth() +
