@@ -20,7 +20,7 @@ title: ""
 <span style="font-family: 'Apple Chancery', cursive; font-size: 30px; font-weight: normal; line-height: 48px; margin: 0;"> About Me </span>
 
 
-* PhD student at The University of Hong Kong [School of Clinical Medicine](https://www.mailman.columbia.edu/)
+* PhD student at The University of Hong Kong, School of Clinical Medicine
 * Department: [Psychiatry](https://www.psychiatry.hku.hk/)
 * Tech Skills: [R prgramming](http://github.com/catherinefzq/), [Microsoft Office Master 2013](https://www.youracclaim.com/badges/9dcb8605-e247-4e8d-b32f-8aba976b3bb5/linked_in_profile), SAS, SQL, Python
 * Languages: Mandarin, Cantonese, English
