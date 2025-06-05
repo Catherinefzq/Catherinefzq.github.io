@@ -20,11 +20,11 @@ title: ""
 <span style="font-family: 'Apple Chancery', cursive; font-size: 30px; font-weight: normal; line-height: 48px; margin: 0;"> About Me </span>
 
 
-* Master student at Columbia University [Mailman School of Public Health](https://www.mailman.columbia.edu/)
-* Department: [Biostatistics](https://www.mailman.columbia.edu/become-student/departments/biostatistics/who-we-are)
-* Tech Skills: [R prgramming](http://github.com/catherinefzq/), [Microsoft Office Master 2013](https://www.youracclaim.com/badges/9dcb8605-e247-4e8d-b32f-8aba976b3bb5/linked_in_profile)
+* PhD student at The University of Hong Kong [School of Clinical Medicine](https://www.mailman.columbia.edu/)
+* Department: [Psychiatry](https://www.psychiatry.hku.hk/)
+* Tech Skills: [R prgramming](http://github.com/catherinefzq/), [Microsoft Office Master 2013](https://www.youracclaim.com/badges/9dcb8605-e247-4e8d-b32f-8aba976b3bb5/linked_in_profile), SAS, SQL, Python
 * Languages: Mandarin, Cantonese, English
-* Expected Graduation: 2020
+* Expected Graduation: 2027
 
 
 Click [here](flexdashboard.html) to check out my DASHBOARD!!
