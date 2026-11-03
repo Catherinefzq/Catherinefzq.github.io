@@ -1,6 +1,9 @@
 name: "zhiqian website"
 output_dir: "."
 create_dir: false
+exclude:
+  - archive
+  - flexdashboard.html
 navbar:
   title: Home
   right:
